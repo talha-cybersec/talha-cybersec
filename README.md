@@ -22,13 +22,15 @@ I'm a cyber security student interested in **threat intelligence, network securi
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![YARA](https://img.shields.io/badge/YARA-8B0000?style=flat&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Networking & security concepts:** YARA rule writing, file hashing & entropy analysis, TCP/IP, DNS, latency & jitter analysis, bcrypt password hashing, session management
+**Networking & security concepts:** YARA rule writing, file hashing & entropy analysis, Linux process scheduling & real-time threads, TCP/IP, DNS, latency & jitter analysis, bcrypt password hashing, session management
 
 ---
 
@@ -43,6 +45,7 @@ I'm a cyber security student interested in **threat intelligence, network securi
 | Project | What it does | Stack |
 |---|---|---|
 | [YARA-Malware-Scanner](https://github.com/talha-cybersec/YARA-Malware-Scanner) | Malware scanner with custom YARA rules for ransomware, trojan and suspicious indicators, plus MD5/SHA256 hashing, entropy analysis, PE detection and HTML reports (group project) | Python, YARA, Tkinter |
+| [Scheduler-Manipulator](https://github.com/talha-cybersec/Scheduler-Manipulator) | Live Linux CPU-scheduler manipulation (renice, taskset, core pinning) with a real priority-inversion demo and React dashboard (group project) | C, Python, Flask, React |
 | [Network-Health-Monitor](https://github.com/talha-cybersec/Network-Health-Monitor) | Measures TCP latency, jitter and DNS resolution for any host and gives it a 0–100 network health score | Python, sockets, Tkinter |
 | [Flask-App](https://github.com/talha-cybersec/Flask-App) | Web app with secure registration and login (bcrypt hashing, protected routes, session management) | Python, Flask, SQLite |
 | [Hospital-System](https://github.com/talha-cybersec/Hospital-System) | Patient management system built on custom data structures: linked lists, queues, BST and stacks | C++ |
